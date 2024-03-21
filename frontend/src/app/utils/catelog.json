@@ -1,0 +1,55 @@
+
+[
+    {
+        "Masking Tape": [
+            {
+                "name": "Paper Masking Tape",
+                "price": 0,
+                "descrip": ""
+            }
+        ]
+    },
+    {
+        "Packaging Tape": [
+            {
+                "name": "Wonder 555 Self Adhesive Tapes",
+                "price": 0,
+                "descrip": ""
+            },
+            {
+                "name": "BOPP Packaging Tapes",
+                "price": 0,
+                "descrip": ""
+            },
+            {
+                "name": "PVC Transparent Tape",
+                "price": 0,
+                "descrip": ""
+            }
+        ]
+    },
+    {
+        "Barcode Ribbon": [
+            {
+                "name": "Blue Barcode Carbon Paper Ribbon",
+                "price": 0,
+                "descrip": ""
+            }
+        ]
+    },
+    {
+        "Barcode Label": [
+            {
+                "name": "Printed Barcode Label",
+                "price": 0,
+                "descrip": ""
+            },
+            {
+                "name": "Plain barcode label",
+                "price": 0,
+                "descrip": ""
+            }
+            
+        ]
+    }
+]
