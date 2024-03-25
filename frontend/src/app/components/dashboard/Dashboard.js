@@ -133,6 +133,34 @@ const products = [
             }
         ]
     },
+    {
+        "Barcode Label": [
+            {
+                "name": "Printed Barcode Label",
+                "price": 0,
+                "descrip": ""
+            },
+            {
+                "name": "Plain barcode label",
+                "price": 0,
+                "descrip": ""
+            }
+        ]
+    },
+    {
+        "Barcode Label": [
+            {
+                "name": "Printed Barcode Label",
+                "price": 0,
+                "descrip": ""
+            },
+            {
+                "name": "Plain barcode label",
+                "price": 0,
+                "descrip": ""
+            }
+        ]
+    },
     // Add other products similarly
 ];
 
