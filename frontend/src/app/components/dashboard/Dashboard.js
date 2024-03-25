@@ -77,12 +77,6 @@ function Dashboard() {
             <footer className="bg-gray-800 text-white py-4 text-center">
                 Copyright &copy; www.PratikEnterprises.com. All rights reserved!
             </footer>
-            <footer className="bg-gray-800 text-white py-4 text-center">
-                Copyright &copy; www.PratikEnterprises.com. All rights reserved!
-            </footer>
-            <footer className="bg-gray-800 text-white py-4 text-center">
-                Copyright &copy; www.PratikEnterprises.com. All rights reserved!
-            </footer>
         </div>
     );
 }
@@ -120,20 +114,6 @@ const products = [
         "Barcode Ribbon": [
             {
                 "name": "Blue Barcode Carbon Paper Ribbon",
-                "price": 0,
-                "descrip": ""
-            }
-        ]
-    },
-    {
-        "Barcode Label": [
-            {
-                "name": "Printed Barcode Label",
-                "price": 0,
-                "descrip": ""
-            },
-            {
-                "name": "Plain barcode label",
                 "price": 0,
                 "descrip": ""
             }
