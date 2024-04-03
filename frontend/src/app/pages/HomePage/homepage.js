@@ -1,8 +1,9 @@
-import React from 'react';
+import React from "react";
 
-function Dashboard() {
-    return (
-        <div className="min-h-screen bg-gray-100">
+export default function Home() {
+    return(
+        <div>
+            <div className="min-h-screen bg-gray-100">
             <nav id="navbar" className="flex items-center justify-between bg-gray-800 p-4">
                 <div id="logo">
                     <img src="/images.jpeg" alt="Pratik Enterprises" className="h-20" />
@@ -78,7 +79,8 @@ function Dashboard() {
                 Copyright &copy; www.PratikEnterprises.com. All rights reserved!
             </footer>
         </div>
-    );
+        </div>
+    )
 }
 
 const products = [
@@ -134,5 +136,3 @@ const products = [
         ]
     },
 ];
-
-export default Dashboard;

@@ -1,10 +1,10 @@
 import Image from "next/image";
-import Dashboard from "./components/dashboard/Dashboard";
+import Home from "./pages/HomePage/homepage";
 
-export default function Home() {
+export default function Page() {
   return (
     <main className="flex min-h-screen flex-col">
-      <Dashboard />
+      <Home />
     </main>
   );
 }
